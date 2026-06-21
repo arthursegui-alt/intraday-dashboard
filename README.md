@@ -5,4 +5,4 @@ In order to run the intraday dashboard that provides realtime data about the gri
 go to github
 clone the repo 
 pull
-and use  streamlit run app.py
+and open a terminal in this forlder to run the following command :  streamlit run app.py
